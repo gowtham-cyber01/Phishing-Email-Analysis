@@ -2,7 +2,8 @@ Phishing Email Analysis
 
 - This project analyzes a real-world phishing email sample to identify common phishing traits and highlight red flags based on technical and content inspection.
 
-Sample Email: [click here to view sample email] (sample_email.txt)
+Sample Email: [Click here to view the sample email](sample_email.txt)
+
 
 A full raw phishing email with headers and body is saved in `sample_email.txt`.
 
